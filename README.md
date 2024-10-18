@@ -1,14 +1,4 @@
 <h2 align='center'>UMS Unofficial API 🤫</h2>
-<p align="center">
-<a href="https://github.com/Ryuk-me"><img title="Author" src="https://img.shields.io/badge/Author-Ryuk--me-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/Ryuk-me"><img title="Followers" src="https://img.shields.io/github/followers/Ryuk-me?color=teal&style=flat-square"></a>
-<a href="https://github.com/Ryuk-me/UMS-Api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ryuk-me/UMS-Api?color=brown&style=flat-square"></a>
-<a href="https://github.com/Ryuk-me/UMS-Api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ryuk-me/UMS-Api?color=lightgrey&style=flat-square"></a>
-<a href="https://github.com/Ryuk-me/UMS-Api/issues"><img title="issues" src="https://img.shields.io/github/issues/Ryuk-me/UMS-Api?style=flat-square">
-</a>
 
 </p>
 
