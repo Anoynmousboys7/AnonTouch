@@ -231,14 +231,7 @@ Example : https://ums.lpu.in/mobile/frmDisplayAnnouncement.aspx?aid=123309&tbl=O
 
 ---
 
-## Author
 
-👤 **Neeraj Kumar**
-
-* Github: [@Ryuk-me](https://github.com/Ryuk-me)
-* LinkedIN: [@Neeraj-Kumar](https://www.linkedin.com/in/neeraj-kumar-5178281b0/)
-
----
 
 ##### IMPORTANT NOTE
 > I HAVE DEVELOPED THIS API JUST TO DISPLAY DATA. I'M NOT STEALING, STORING, SELLING  ANY KIND OF DATA. IF LPU OFFICIALS HAVE ANY KIND OF ISSUES WITH ME THEN THEY CAN MAIL ME.
@@ -246,5 +239,3 @@ Example : https://ums.lpu.in/mobile/frmDisplayAnnouncement.aspx?aid=123309&tbl=O
 ### Legal
 > This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by LPU or any of its affiliates or subsidiaries. This is an independent and unofficial module.
 
-## License
-&copy; Neeraj Kumar | MIT
